@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LibrariesApplication {
+public class MockitoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LibrariesApplication.class, args);
+		SpringApplication.run(MockitoApplication.class, args);
 	}
 
 }
